@@ -46,11 +46,33 @@ h1{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    max-width: 1440;
+    max-width: 1440px;
     height: 700px;
     box-sizing: border-box;
     
 }
 .break{
-    align-items: center;
+    margin-right: 230px;
+}
+.body-i{
+    margin: 0 141px 0 0;
+}
+.action{
+    font-weight: bold;
+    font-size: 42px;
+}
+.look{
+    font-size: 24px;
+}
+.body-ii{
+    display: flex;
+    max-width: 1140px;
+    justify-content: space-between;
+    margin: 116px 159px 0 141px ;
+    
+}
+.wc{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
 }
