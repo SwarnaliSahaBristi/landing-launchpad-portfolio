@@ -30,16 +30,23 @@ nav{
     border: none;
     border-radius: 10px;
 }
+.btn{
+    margin-top: auto;
+    margin-left: 25%;
+    align-items: center;
+}
 h1{
     font-size: 65px;
     font-weight: bold;
-    max-width: 905px;
+    max-width: 890px;
 }
 .break{
-    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    margin-left: 10%;
 }
 .banner{
-    margin: 250px 25px 0 220px;
+    margin: 250px 20px 0 220px;
 }
 
 .header{
@@ -52,9 +59,7 @@ h1{
     box-sizing: border-box;
     
 }
-.break{
-    margin-right: 230px;
-}
+
 .body-i{
     margin: 0 141px 0 0;
 }
@@ -102,8 +107,7 @@ h1{
 .number{
     display: flex;
     gap: 158px;
-    margin: 0 0 0 60px;
-}
+    }
 .value{
     background-color: rgb(182, 166, 253);
     max-width: 1140px;
@@ -113,3 +117,34 @@ h1{
     margin: 135px 159px 0 141px;
     text-align: center;
 }
+.us{
+    font-weight: bold;
+    font-size: 42px;
+    margin: 80px 0 0 4800px;
+    align-items: center;
+}
+.bd{
+    font-weight: bold;
+}
+.box{
+    background-color: #FFFFFF;
+    max-width: 366px;
+    height: 243px;
+    padding: 24px 24px;
+    border-radius: 14;
+}
+.get{
+    margin: 135px 0 0 180px;
+}
+.gotta{
+    display: flex;
+   column-gap: 20%;
+}
+.labels{
+    margin-top: auto;
+}
+.li1{
+    width: 30%auto;
+    height: 5%;
+}
+    
